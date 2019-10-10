@@ -1,1 +1,0 @@
-上传的实例是学习python数据分析过程的小练习，用到的工具是jupyter notebook,用到的知识有numpy，pandas，matplotlib等
